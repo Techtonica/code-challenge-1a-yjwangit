@@ -12,7 +12,7 @@
 
 function sum(a, b){
   return (a+b);
-    // replace this line with your code;
 }
+    
 
 module.exports = sum;
